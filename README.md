@@ -1,14 +1,9 @@
-# A Blank PhoneGap App
+# PhoneGap App
 
-## Usage
-
-### PhoneGap CLI
-
-    $ phonegap create my-app --template blank
+## demo framework7 for android
 
 ### Desktop
 
 In your browser, open the file:
 
     /www/index.html
-
